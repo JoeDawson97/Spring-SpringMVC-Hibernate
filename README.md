@@ -1,2 +1,2 @@
 # Spring-SpringMVC-Hibernate
-idea for Spring-SpringMVC-Hibernate框架搭建demo
+idea16 maven for Spring4-SpringMVC-Hibernate5框架搭建demo
